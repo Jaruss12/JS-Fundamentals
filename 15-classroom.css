@@ -1,0 +1,49 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+}
+
+p{
+    color: red;
+}
+
+.gold1{
+    border: 3px solid black;
+    border-radius: 1em;
+    background-color: gray;
+    text-align: center
+}
+
+.gold2{
+    border: 3px solid black;
+    border-radius: 1em;
+    background-color: gray;
+    text-align: center;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 20px 20px 20px 40px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding:0.5em;
+    background-color: lightskyblue;    
+}
+
+table{
+    margin:auto;
+}
+
+#movieTitle{
+    text-align: center;
+}
+
+
+.title{
+    font-style: italic;
+}
