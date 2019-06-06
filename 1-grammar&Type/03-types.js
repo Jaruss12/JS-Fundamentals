@@ -26,7 +26,7 @@ Undefined
 ******************
 Undefined = no value assigned (not even an empty container)
 UNDEFINED IS NOT AN ERROR
-*/
+*/  
 let undef = undefined;// never do this
 console.log(undef); // undefined
 let grass;
